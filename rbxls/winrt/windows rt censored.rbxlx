@@ -20929,7 +20929,7 @@ function BlueScreen()
 					wa.Visible = true
 					wa.ZIndex = 1000000
 					game.Workspace["Sound Media"].CriticalStop:Play()
-					wa.TitleBar.MainFrame.Open.ERRORTEXT.Text = "Where the fuck did " .. v.Name .. funny .. " go?!"
+					wa.TitleBar.MainFrame.Open.ERRORTEXT.Text = "Where did " .. v.Name .. funny .. " go?!"
 				end)
 			else
 				game["Run Service"].Stepped:Wait()
@@ -28938,7 +28938,7 @@ end)]]></ProtectedString>
 									<token name="SizeConstraint">0</token>
 									<int64 name="SourceAssetId">-1</int64>
 									<BinaryString name="Tags"></BinaryString>
-									<string name="Text">FUCKING HELL WHAT HAVE YOU DONE</string>
+									<string name="Text">FLIPPING HECK WHAT HAVE YOU DONE</string>
 									<Color3 name="TextColor3">
 										<R>1</R>
 										<G>1</G>
