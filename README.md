@@ -1,2 +1,2 @@
 # Resources
-A collection of high resolution images and resources from our games.
+A (incomplete) collection of resources from our Roblox experiences.
