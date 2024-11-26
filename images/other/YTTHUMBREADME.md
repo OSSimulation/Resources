@@ -1,0 +1,1 @@
+The youtube thumbnails XCF file is split between multiple files as I made them way too large (4K!) and they take so much space that github can't handle it!
