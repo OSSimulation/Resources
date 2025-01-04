@@ -1,0 +1,190 @@
+key,example,source,context,it,zh-hans,zh-hant,fr,de,id,ja,pl,ko,pt,ru,es,th,tr,vi,cs
+,Other player page,Block Player,,,,,,,,,,,,,,,,,Blokovat Hráče
+,Settings Page,Preferences,,,,,,,,,,,,,,,,,Předvolby
+,Settings Page,Leave Experience,,,,,,,,,,,,,,,,,Opustit Zážitek
+,WIP Page,This page of the menu is unfinished. Please press Back to go back to the main menu.,,,,,,,,,,,,,,,,,"Tato stránka od nabídky je nedokončená. Prosím klik ""Zpátky"" abyste mohli vrátit se do hlavní nabídky"
+,Leave Experience,Are you sure you want to leave the experience and head back to the Roblox app? All unsaved data will be lost.,,,,,,,,,,,,,,,,,Jste jistí že chcete opustit zážitek a jít hned zpátky do Roblox appky? Všechna neuložená data budou ztracena.
+,Other player page,Send Friend Request,,,,,,,,,,,,,,,,,Odeslat žádost o přátelství
+,Friends Status (unused),Last online {number1} days ago,,,,,,,,,,,,,,,,,Naposledy online před {number1} dny
+,Friends Status,Online,,,,,,,,,,,,,,,,,Online
+,Badge title,Welcome!,,,,,,,,,,,,,,,,,Vítejte!
+,Generic loading,Loading...,,,,,,,,,,,,,,,,,Načít se...
+,Other Experiences,[TEMPORARY] Windows XP Gui Test,,,,,,,,,,,,,,,,,[DOČASNÝ] Windows XP Gui Test
+,Experiences page,Other Experiences,,,,,,,,,,,,,,,,,Jiné Zážitky
+,Player page,Member,,,,,,,,,,,,,,,,,Člen
+,Other Experiences,[EoL] Windows XP Gui Test Debug Place,,,,,,,,,,,,,,,,,[EoL] Windows XP Gui Test Odladění Prostor
+,Other player page,Unblock,,,,,,,,,,,,,,,,,Odblokovat
+,Player page,Change Image,,,,,,,,,,,,,,,,,Změnit obraz
+,Popup/error,Ok,,,,,,,,,,,,,,,,,Ok
+,Settings Blade/Page,Settings,,,,,,,,,,,,,,,,,Nastavení
+,Basically any page,Select,,,,,,,,,,,,,,,,,Vybrat
+,Other Experiences,[EoL] iOS {number1},,,,,,,,,,,,,,,,,[EoL] iOS {number1}
+,Console error screen,"An error occoured during the teleport, which causes the OS Menu to break on consoles. Please open the Roblox menu, select ""Menu"", then close the menu to fix the virtual cursor. You must do this or the OS Menu WILL break.",,,,,,,,,,,,,,,,,"Během teleportu došlo k chybě, která způsobuje OS nabídku zkazit na konzolích. Otevřete Roblox nabídku, vyberte ""Menu"" a pak zavřete nabídku, abyste jste mohli opravit váš virtuální kurzor. Musíte to udělat, jinak se OS NABÍDKA SE ROZBIJE."
+,Achievment popup,Achievement Unlocked!,,,,,,,,,,,,,,,,,Úspěch Odemčen!
+,Settings page,Theme,,,,,,,,,,,,,,,,,Motivy
+,Teleporting page,Teleporting...,,,,,,,,,,,,,,,,,Teleportuje se…
+,Player page,Creator,,,,,,,,,,,,,,,,,Tvůrce
+,Popup/error,No,,,,,,,,,,,,,,,,,Ne
+,Friend page,Join Experience,,,,,,,,,,,,,,,,,Připojit k Zážitku
+,Friend page,Offline,,,,,,,,,,,,,,,,,Offline
+,Player page,View Avatar,,,,,,,,,,,,,,,,,Zobrazit Avatar
+,Basically any page,Back,,,,,,,,,,,,,,,,,Zpátky
+,Placeholder game name,Crossroads,,,,,,,,,,,,,,,,,Křižovatka
+,Settings page,Profile,,,,,,,,,,,,,,,,,Profil
+,Home/Players page,OS Menu,,,,,,,,,,,,,,,,,OS Nabídka
+,Player page,Chat,,,,,,,,,,,,,,,,,Chat
+,Teleport to place,Are you sure you want to leave the experience and play OS Menu? All unsaved data will be lost.,,,,,,,,,,,,,,,,,"Jste jistí že chcete opustit zážitek a hrát ""OS Nabídku""? Všechna neuložená data budou ztracena"
+,Friend join Error,"You are unable to join this friend because their joins are off, or they have left the experience they're in.",,,,,,,,,,,,,,,,,"K tomuto příteli se nemůžete připojit, protože jeho připojení jsou vypnutá nebo opustil zážitek, kde před chvílí byli."
+,Other Experiences,Windows XP Gui Test,,,,,,,,,,,,,,,,,Windows XP Gui Test
+,Home page,Players,,,,,,,,,,,,,,,,,Hráči
+,Settings page,Notifications,,,,,,,,,,,,,,,,,Oznámení
+,Teleport to place,Are you sure you want to leave the experience and play,,,,,,,,,,,,,,,,,Jste jistí že chcete opustit zážitek a hrát
+,Teleport to place,? All unsaved data will be lost.,,,,,,,,,,,,,,,,,? Všechna neuložená data budou ztracena
+,Popup/error,Yes,,,,,,,,,,,,,,,,,Ano
+,Game title,Roblox,,,,,,,,,,,,,,,,,Roblox
+,Other Experiences,Windows RT Gui Test (not clickbait),,,,,,,,,,,,,,,,,Windows RT Gui Test (not clickbait)
+,Home page,Close Menu,,,,,,,,,,,,,,,,,Zavřít Nabídku 
+,Other player page,Unfriend,,,,,,,,,,,,,,,,,Odebrat z Přatel 
+,Experiences page,Achievements,,,,,,,,,,,,,,,,,Úspěchy
+,Player page,Device,,,,,,,,,,,,,,,,,Zařízení
+,Player page,Enabled,,,,,,,,,,,,,,,,,Povoleno
+,Player page,Rank,,,,,,,,,,,,,,,,,Postavení
+,Other player page,Block,,,,,,,,,,,,,,,,,Blokovat
+,Player page,PC,,,,,,,,,,,,,,,,,Počítač
+,Experiences blade,Experiences,,,,,,,,,,,,,,,,,Zážitky
+,Home page,Friends,,,,,,,,,,,,,,,,,Přátelé
+,Other Experiences,[EoL] Windows XP Gui Test,,,,,,,,,,,,,,,,,[EoL] Windows XP Gui Test
+,Player page,Tester,,,,,,,,,,,,,,,,,Tester
+,Player page,Translator,,,,,,,,,,,,,,,,,Překladatel
+,Player page,Developer,,,,,,,,,,,,,,,,,Vývojář
+,Player page,Admin,,,,,,,,,,,,,,,,,Admin
+,Player page,Trial Admin,,,,,,,,,,,,,,,,,Zkušební Admin.
+,Player page,Mobile,,,,,,,,,,,,,,,,,Mobil
+,Player page,Tablet PC,,,,,,,,,,,,,,,,,Tabletoví Počítač
+,Player page,VR,,,,,,,,,,,,,,,,,VR
+,Player page,Console,,,,,,,,,,,,,,,,,Konsole
+,Player page,Disabled,,,,,,,,,,,,,,,,,Zakázáno
+,Player page,Cool Person,,,,,,,,,,,,,,,,,Hustý Člověk
+,Badge title,Completed Setup!,,,,,,,,,,,,,,,,,Dokončil si Nastavení!
+,Badge title,The Dancing Man,,,,,,,,,,,,,,,,,Tančící Člověk
+,Badge title,What does this button do?,,,,,,,,,,,,,,,,,Co dělá toto tlačítko?
+,Badge title,IT'S OVER 9000!!!!,,,,,,,,,,,,,,,,,JE TO PŘES 9000!!!!
+,Badge title,YOU CHEATED!!!!,,,,,,,,,,,,,,,,,PODVÁDĚL JSI!!!!
+,Badge title,Big Bang!,,,,,,,,,,,,,,,,,Velký Třesk!
+,Badge title,Enjoyed the chaos at Chaos Canyon!,,,,,,,,,,,,,,,,,Užil si chaos v Chaos Kaňonu!
+,Badge title,You did it!,,,,,,,,,,,,,,,,,Udělal jsi to!
+,Badge title,The F25 Key....,,,,,,,,,,,,,,,,,F25 Tlačítko....
+,Badge title,Trip to the ROBLOX HQ,,,,,,,,,,,,,,,,,Výlet do ROBLOX HQ
+,Badge title,Played with a VR headset!,,,,,,,,,,,,,,,,,Hraj si s VR brýle!
+,Badge title,Battled in the Rocket Arena!,,,,,,,,,,,,,,,,,Bojoval si v Rocket Areně!
+,Badge title,Secret Badge #1,,,,,,,,,,,,,,,,,Tajný Odznak #1
+,Badge title,Secret Badge #2,,,,,,,,,,,,,,,,,Tajný Odznak #2
+,Badge title,Helpful Assistant!,,,,,,,,,,,,,,,,,Užitečný Asistent!
+,Badge title,What to choose...,,,,,,,,,,,,,,,,,Co si vybrat...
+,Badge title,Bloxxed by Thomas!,,,,,,,,,,,,,,,,,Bloxxoval od Tomáše!
+,Badge title,Bloxxed Thomas!,,,,,,,,,,,,,,,,,Bloxxoval si Tomáše!
+,Badge title,Met a Developer!,,,,,,,,,,,,,,,,,Potkal si vývojáře!
+,Badge title,Fought at the Crossroads!,,,,,,,,,,,,,,,,,Bojovával jsem na Křižovatce!
+,Badge title,Built at the Happy Home!,,,,,,,,,,,,,,,,,Postavení v Šťastný Domě!
+,Badge title,Pew pew! Bang bang!,,,,,,,,,,,,,,,,,"Pew pew! Prásk, prásk!"
+,"Badge title, ""Kernel"" as in operating system",Kernel Crash,,,,,,,,,,,,,,,,,Jádry třesk
+,Player page,Guest,,,,,,,,,,,,,,,,,Návštěvník
+,Badge title,"Look, ma! I'm colourful!",,,,,,,,,,,,,,,,,"Dívej, mami! Jsem barevný!"
+,Badge description,Welcome to Windows XP Gui Test!,,,,,,,,,,,,,,,,,Vítejte ve Windows XP Gui Test!
+,Badge description,"You've met a developer, and get a cool badge for it!",,,,,,,,,,,,,,,,,Potkal si vývojáře a získal si za to skvělý odznak!
+,Badge description,You've successfully set up your Windows XP computer! This badge is currently unobtainable as the Out Of Box Experience has not been added yet.,,,,,,,,,,,,,,,,,"Úspěšně si nastavil počítač se systémem Windows XP!
+
+Tento odznak v současné době jsou nesehnatelný, protože ještě nebyl přidán ""Out of Box Zkušenosti""."
+,Badge description,"You've somehow managed to strap a monitor to your head, and now you're using a relatively old computer in your house... Wait. This isn't your house! Where are you? And why are you using a old computer in a weird location? Time shall answer this question.",,,,,,,,,,,,,,,,,Nějak se ti podařilo připevnit si k hlavě monitor a teď doma používáš relativně starý počítač... Počkat. Tohle není tvůj dům! Kde jsi? A proč používáš starý počítač na podivném místě? Na tuto otázku odpoví čas.
+,Badge description,You've submitted feedback for the game! This badge is unobtainable as the Feedback system has been removed due to spam. Please give feedback on the Group Wall or in our Community Server.,,,,,,,,,,,,,,,,,"Odeslali jste zpětnou vazbu ke hře!
+
+Tento odznak nelze získat, protože systém zpětné vazby byl odstraněn kvůli spamu. Sdělte nám prosím zpětnou vazbu na nástěnce skupiny nebo na našem komunitním serveru."
+,Badge description,"Press the F15 key on your keyboard, and you'll get something special...",,,,,,,,,,,,,,,,,Stiskni na klávesnici F15 a získej něco speciálního...
+,Badge description,Your FPS is OVER 9000!!!!,,,,,,,,,,,,,,,,,Tvůj FPS je přes 9000!!!!
+,Badge description,Find the Dancing Man in ROBLOX.,,,,,,,,,,,,,,,,,Najdi Tančícího Člověka v ROBLOXu
+,Badge description,Visit the Crossroads in ROBLOX.,,,,,,,,,,,,,,,,,Navštiv Křižovatku v ROBLOXu
+,Badge description,"Visit the Happy Home in ROBLOX.
+
+This badge has been disabled for now.",,,,,,,,,,,,,,,,,"Navštiv Šťastný Dum v ROBLOXu.
+
+Tento odznak je prozatím deaktivován."
+,Badge description,"Visit the Chaos Canyon in ROBLOX.
+
+This badge has been temporarily disabled.",,,,,,,,,,,,,,,,,"Navštiv Chaos Kaňon v ROBLOXu.
+
+Tento odznak je prozatím deaktivován."
+,Badge description,"Visit the Rocket Arena in ROBLOX.
+
+this badge has been temporarily disabled.",,,,,,,,,,,,,,,,,"Navštiv Rocket Arenu v ROBLOXu.
+
+Tento odznak je prozatím deaktivován."
+,Badge description,Secret Badge. Play the game to find out how to unlock this badge!,,,,,,,,,,,,,,,,,"Tajný Odznak. Zahraj si hru a zjistí, jak odemknout tento odznak!"
+,Badge description,Secret Badge. Play the game to find out how to unlock this badge!,,,,,,,,,,,,,,,,,"Tajný Odznak. Zahraj si hru a zjistí, jak odemknout tento odznak!"
+,Badge description,You've bloxxed Thomas!,,,,,,,,,,,,,,,,,Ty jsi bloxxoval Tomáše!
+,Badge description,You got bloxxed by Thomas!,,,,,,,,,,,,,,,,,Tomáš te bloxxoval!
+,Badge description,"You've visited the ROBLOX HQ in ROBLOX!
+
+this badge has been temporarily disabled.",,,,,,,,,,,,,,,,,"Navštívil si ROBLOX HQ v ROBLOXu!
+
+Tento odznak je prozatím deaktivován."
+,Badge description,Whoops! Looks like you caused a crash. Have you tried turning it off and on again?,,,,,,,,,,,,,,,,,"Jejda! Vypadá to, že jsi způsobil havárii. Zkoušel jsi to vypnout a zapnout znovu?"
+,Badge description,Customise your ROBLOX avatar using the Avatar Editor.,,,,,,,,,,,,,,,,,Přizpůsob si svého ROBLOX avatara pomocí Avatar Editor.
+,Badge description,Change your player model in Half-Life.,,,,,,,,,,,,,,,,,Změň si svůj hráč model v Half-Life.
+,Badge description,Played a round of deathmatch in Half-Life.,,,,,,,,,,,,,,,,,Hrál si kolo smrtelného zápasu v Half-Life.
+,Badge description,Be the top-scoring player in a round of deathmatch in Half-Life.,,,,,,,,,,,,,,,,,Staňte se nejlepším hráčem v smrtelném zápase v Half-Life.
+,Badge description,Find the nuke button and press it in Half-Life.,,,,,,,,,,,,,,,,,Najdi tlačítko pro atomovou bombu a zmáčkni ho v Half-Life.
+,Badge description,Get exploded by a nuke in Half-Life.,,,,,,,,,,,,,,,,,Nech se vybuchnout od atomové bombě v Half-Life.
+,Badge description,Use badgehax.,,,,,,,,,,,,,,,,,"Použiji ""badgehax""."
+,Home page (unused),Reset Character,,,,,,,,,,,,,,,,,Resetovat Charakter
+,Friend status,Roblox on Console,,,,,,,,,,,,,,,,,Roblox v Konsole
+,Friend status,Roblox Studio,,,,,,,,,,,,,,,,,Roblox Studio
+,Friend status,Editing an experience with friends,,,,,,,,,,,,,,,,,Upravuje zážitek s přáteli
+,Friend status,Unknown Game,,,,,,,,,,,,,,,,,Neznámá Hra
+,Friend status,Ingame,,,,,,,,,,,,,,,,,Ve Hře
+,Friend status,Roblox Mobile,,,,,,,,,,,,,,,,,Roblox Mobile
+,Friend status,Editing an experience,,,,,,,,,,,,,,,,,Upravuje zážitek
+,Placeholder game name,Unknown Place,,,,,,,,,,,,,,,,,Neznámí Prostor
+,Friends online popup (unused),{number1} friends online,,,,,,,,,,,,,,,,,{number1} přátelé online
+,Friend online popup (unused),{number1} friend online,,,,,,,,,,,,,,,,,{number1} přítel online
+,Login popup (unused),signed in,,,,,,,,,,,,,,,,,přihlášení
+,Login popup live (unused),signed in to Roblox,,,,,,,,,,,,,,,,,přihlášení do Robloxu
+,Friend went online popup (unused),is online,,,,,,,,,,,,,,,,,je online
+,Friend joined game popup (unused),is playing,,,,,,,,,,,,,,,,,hraje
+,Logout (unused),signed out,,,,,,,,,,,,,,,,,odhlášen
+,Disconnected (unused),Disconnected,,,,,,,,,,,,,,,,,Odpojení
+,Disconnected description (unused),from Roblox Server,,,,,,,,,,,,,,,,,od Roblox Serveru
+,Achievment popup (unused),Achievement unlocked,,,,,,,,,,,,,,,,,Úspěch odemčen
+,Friends playing popup (unused),{number1} friends playing,,,,,,,,,,,,,,,,,{number1} přátelé hrají
+,Friend playing popup (unused),{number1} friend playing,,,,,,,,,,,,,,,,,{number1} přítel hrají
+,Friends page,Invite Friends,,,,,,,,,,,,,,,,,Pozvi přátelé
+,Preferences page (unused),Language,,,,,,,,,,,,,,,,,Jazyk
+,Preferences page (unused),Theme,,,,,,,,,,,,,,,,,Motivy
+,Preferences page (unused),Notifications,,,,,,,,,,,,,,,,,Oznámení
+,Language page (unused),Select Language,,,,,,,,,,,,,,,,,Vyberte si jazyk
+,Language page (unused),Select a language for the OS Menu.,,,,,,,,,,,,,,,,,Vyberte si jazyk pro OS Nabídku 
+,Language page (unused),"Please note that this does not save, and the language will be reset to the language you have set in your Roblox settings when you leave this experience.",,,,,,,,,,,,,,,,,"Vezměte prosím na vědomí, že tohle se neuloží a jazyk bude resetován na jazyk, který jste nastavili v Roblox nastavení, když tuto zážitek opustíte."
+,Notifications page (unused),Notification Settings,,,,,,,,,,,,,,,,,Nastavení Oznámení
+,Notifications page (unused),Change your notification settings.,,,,,,,,,,,,,,,,,Změňte nastavení oznámení.
+,Notifications page (unused),"Please note that this does not save, and your notification settings will be reset when leaving the experience.",,,,,,,,,,,,,,,,,"Vezměte prosím na vědomí, že tohle se neuloží a vaše změně nastavení oznámení bude resetován, když tuto zážitek opustíte."
+,Theme page (unused),Select Theme,,,,,,,,,,,,,,,,,Vyberte si Motiv
+,Theme page (unused),Change how the OS Menu looks.,,,,,,,,,,,,,,,,,"Změňte jak ""OS nabídka"" vypadá."
+,Theme page (unused),"Please note that this does not save, and your theme settings will be reset when leaving the experience.",,,,,,,,,,,,,,,,,"Vezměte prosím na vědomí, že tohle se neuloží a vaše změně motiv bude resetován, když tuto zážitek opustíte."
+,"Theme page, NXE stands for New Xbox Experience (unused)","""NXE"" style",,,,,,,,,,,,,,,,,"""NXE"" styl"
+,Theme page (unused),"""Metro"" style",,,,,,,,,,,,,,,,,"""Metro"" styl"
+,Theme page (unused),"""Blades"" style",,,,,,,,,,,,,,,,,"""Blades"" styl"
+,anywhere,Apply,,,,,,,,,,,,,,,,,Použít
+,anywhere,Save,,,,,,,,,,,,,,,,,Uložit
+,anywhere,Accept,,,,,,,,,,,,,,,,,Přijmout
+,anywhere,Decline,,,,,,,,,,,,,,,,,Odmítnout
+,anywhere,Reset,,,,,,,,,,,,,,,,,
+,anywhere,Test,,,,,,,,,,,,,,,,,
+,Friend join page,Join friend?,,,,,,,,,,,,,,,,,
+,Friend join page,Join Friend,,,,,,,,,,,,,,,,,
+,anywhere,Click,,,,,,,,,,,,,,,,,
+,anywhere,Tap,,,,,,,,,,,,,,,,,
+,anywhere,Press,,,,,,,,,,,,,,,,,
+,anywhere,Push,,,,,,,,,,,,,,,,,
+,anywhere,Pull,,,,,,,,,,,,,,,,,
+,anywhere,Swipe,,,,,,,,,,,,,,,,,
+,Open menu help,OS Button,,,,,,,,,,,,,,,,,
+,Open menu help,to open the OS Menu,,,,,,,,,,,,,,,,,
