@@ -1,2 +1,2 @@
 # Resources
-A (incomplete) collection of resources from our Roblox experiences.
+A (incomplete) collection of resources and assets from our projects.

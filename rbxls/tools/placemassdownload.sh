@@ -1,12 +1,13 @@
 #!/bin/sh
-# Roblox Mass Place Version Downloader shell script by Thomasluigi07, 2024
-# Run chmod +x on this file if it doesn't run
+# Roblox Mass Place Version Downloader shell script by Thomasluigi07, 2024-2025
+# Run chmod +x on this file if it doesn't run.
 # Your Roblox cookies aren't required for uncopylocked places.
 # Make sure to add your roblox cookies in the curl command or it won't download copylocked places. 
 # DO NOT SHARE YOUR ROBLOX COOKIES WITH ANYONE, ESPECIALLY YOUR .ROBLOSECURITY COOKIE.
 # Put your place id you want to download from in ?id=NUMBER
 for i in {1..10} # Change 10 to the number of the highest version your place has
 do
+echo Starting download for version $i;
 curl "https://assetdelivery.roblox.com/v1/asset/?id=1818&version=${i}" \
   -L \
   -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \
@@ -23,5 +24,7 @@ curl "https://assetdelivery.roblox.com/v1/asset/?id=1818&version=${i}" \
   -H 'sec-fetch-user: ?1' \
   -H 'upgrade-insecure-requests: 1' \
   -H 'user-agent: ' \
-  --output version$i.rbxl;
+  --output build$i.rbxl;
+echo Finished download for version $i, sleeping for 3 seconds;
+sleep 3;
 done
